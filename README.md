@@ -28,7 +28,7 @@ if no complains then you are ready to use LIBSVM
 
 ##UPDATE:
 
-The compiled library failed to run using Octave.app (3.4.2) and the one in homebrew is 3.6.4
+The compiled library failed to run using Octave.app (3.4.2) as the one in homebrew is 3.6.4 and diff architecture.
 
 If you want to install octave using homebrew following instructions on this link
 
